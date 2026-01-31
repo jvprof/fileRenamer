@@ -1,0 +1,3 @@
+# Liste des requirements du projet
+# Aucun paquet tiers installé dans `.venv` (sortie de `pip freeze` vide)
+
